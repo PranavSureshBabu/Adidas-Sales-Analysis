@@ -2,10 +2,10 @@
 
 <img width="1387" height="797" alt="image" src="https://github.com/user-attachments/assets/8670bd0d-d5b4-4ccc-a5e9-8c672c089387" />
 
-📌##Overview
+📌 **Overview** 
 This dashboard delivers a comprehensive analysis of Adidas's sales performance across various regions, time periods, products, and retailers. Designed using Power BI, it empowers decision-makers with data-driven insights to optimize product offerings, enhance profitability, and identify high-performing segments.
 
-💡 Key Business Insights
+💡 **Key Business Insights**
 Total Sales: $900M
 
 Operating Profit: $332M
@@ -83,7 +83,7 @@ Walmart: $75M
 
 💼 Insight: Specialty retailers like West Gear and Foot Locker significantly outperform e-commerce giants, emphasizing strong in-store performance.
 
-🧠 Summary
+🧠 **Summary**
 This interactive dashboard offers a 360-degree view of Adidas’s business performance, highlighting:
 
 Sales trends over time
@@ -94,7 +94,7 @@ Top-performing products & retailers
 
 Strategic opportunities for targeting high-growth segments
 
-🔧 Tools Used
+🔧 **Tools Used**
 Power BI: Data modeling, visualization, and interactive filtering
 
 Excel / CSV files: Data source for order and product details
